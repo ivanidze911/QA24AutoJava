@@ -1,4 +1,4 @@
-package QA24AutoJava.nasledovanie.examle1;
+package QA24AutoJava.Lesson1.nasledovanie.examle1;
 
 public class ParentClass {
     String parentString;

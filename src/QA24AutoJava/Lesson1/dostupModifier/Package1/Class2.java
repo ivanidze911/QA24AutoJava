@@ -1,4 +1,4 @@
-package QA24AutoJava.dostupModifier.Package1;
+package QA24AutoJava.Lesson1.dostupModifier.Package1;
 
 public class Class2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package QA24AutoJava;
+package QA24AutoJava.Lesson1;
 
 public class Lesson1 {
     public static void main(String[] args) {

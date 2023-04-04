@@ -1,4 +1,4 @@
-package QA24AutoJava;
+package QA24AutoJava.Lesson1;
 
 public class Computer {
     public int cost;
