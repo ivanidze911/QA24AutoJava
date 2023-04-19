@@ -1,4 +1,4 @@
-package QA24AutoJava.Peregruz;
+package QA24AutoJava.Classwork.Lesson2.Lesson1.Lesson1.Peregruz;
 
 public class Peregruz {
 

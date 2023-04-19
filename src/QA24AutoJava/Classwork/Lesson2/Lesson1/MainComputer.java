@@ -1,6 +1,8 @@
-package QA24AutoJava;
+package QA24AutoJava.Classwork.Lesson2.Lesson1;
 
-public class Lesson1 {
+import QA24AutoJava.Classwork.Lesson2.Lesson1.MainComputer.dostupModifier.Computer;
+
+public class MainComputer {
     public static void main(String[] args) {
 //        Computer computer = new Computer();
 //        System.out.println(computer.Keyboard);

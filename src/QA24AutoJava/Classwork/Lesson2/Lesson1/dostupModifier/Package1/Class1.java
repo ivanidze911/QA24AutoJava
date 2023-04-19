@@ -1,4 +1,4 @@
-package QA24AutoJava.dostupModifier.Package1;
+package QA24AutoJava.Classwork.Lesson2.Lesson1.dostupModifier.Package1;
 
 public class Class1 {
     static public int publicInt;

@@ -1,4 +1,4 @@
-package QA24AutoJava.nasledovanie.examle1;
+package QA24AutoJava.Classwork.Lesson2.Lesson1.nasledovanie.examle1;
 
 public class ChildClass extends ParentClass{
     // extends - значит что мы наслудуемся от класса ParentClass,
