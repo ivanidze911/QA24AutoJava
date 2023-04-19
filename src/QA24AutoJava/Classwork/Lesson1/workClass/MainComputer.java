@@ -1,6 +1,6 @@
 package QA24AutoJava.Classwork.Lesson1.workClass;
 
-import QA24AutoJava.Classwork.Lesson1.workClass.MainComputer.dostupModifier.Computer;
+import QA24AutoJava.Classwork.Lesson1.workClass.MainComputer;
 
 public class MainComputer {
     public static void main(String[] args) {

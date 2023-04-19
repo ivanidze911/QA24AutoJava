@@ -1,4 +1,4 @@
-package QA24AutoJava.Classwork.Lesson1;
+package QA24AutoJava.Classwork;
 
 import java.util.Arrays;
 
